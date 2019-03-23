@@ -77,7 +77,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3fb0a173b70874c5bcebc73e342f6c7a"
+    "revision": "73e5d4b8cee88cc1d268f5478fcd16df"
   },
   {
     "url": "projects/a11ycolor/index.html",
