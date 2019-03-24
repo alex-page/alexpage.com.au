@@ -73,27 +73,27 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "3068996dae48ac8d47311729cd8141b0"
+    "revision": "5222dd2a30528a21abf41c27c08054fb"
   },
   {
     "url": "index.html",
-    "revision": "73e5d4b8cee88cc1d268f5478fcd16df"
+    "revision": "7d80543a41deb6de1f1bd6f3d9cd0f72"
   },
   {
     "url": "projects/a11ycolor/index.html",
-    "revision": "a26413f9d0d8cd8fa1808c60e818567a"
+    "revision": "4e2e74fd8fd69b802e4ba6637d938ef6"
   },
   {
     "url": "projects/harmonograph/index.html",
-    "revision": "1facf9cc008f4a3762ce44cebd1f791f"
+    "revision": "a1f5246626ec83589399a849e3a5ccde"
   },
   {
     "url": "projects/index.html",
-    "revision": "2ea8c37d48d87343fdfcf51e4b48de08"
+    "revision": "768dafedeca82ba4548b42ed910e041b"
   },
   {
     "url": "talks/index.html",
-    "revision": "f6a00d739def69edd2454ac2c90aa7a6"
+    "revision": "e598615816818612c8a7fe56dc869605"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
