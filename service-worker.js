@@ -73,7 +73,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "eef031dd3a30f5631c3dc88e00899f2a"
+    "revision": "93166438d94b874fb7b657b1822ac1e2"
   },
   {
     "url": "index.html",
