@@ -29,7 +29,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "97bfe664e8deb82bd4d1c84b84ac87d7"
+    "revision": "4b4cccaa2581d72d10e4f781d56e7cd8"
   },
   {
     "url": "assets/blog/actions.jpg",
@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/github-actions-npm/index.html",
-    "revision": "251a937a8c95a879834b2d8fb2295479"
+    "revision": "3b3aa7c0e8a50d6a14ce6f35a7997ae8"
   },
   {
     "url": "blog/index.html",
@@ -117,35 +117,35 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "56b4afb67aaebf4ecfb8ba952997e6ad"
+    "revision": "cb816af000fa73e47d05a8a079024e30"
   },
   {
     "url": "projects/a11ycolor/index.html",
-    "revision": "3223a496b6266eb3c810b569c2a8d1f8"
+    "revision": "103fa5417a9c769166a89f188a731be1"
   },
   {
     "url": "projects/auds/index.html",
-    "revision": "67a28a433724c5f1151fe94c897961da"
+    "revision": "4daab30752457e289aec6bd279c8ee93"
   },
   {
     "url": "projects/chameleon/index.html",
-    "revision": "6a85183a886ed9aa1dc070509b6890d6"
+    "revision": "16ae85fc01b478b9bdf7b5f9ccf4da2e"
   },
   {
     "url": "projects/furnace/index.html",
-    "revision": "67a4897b21d7737a9fcc6b1bf261303b"
+    "revision": "76957c646ea342019d6e7158ec3cca70"
   },
   {
     "url": "projects/harmonograph/index.html",
-    "revision": "1a00713a266077cc684bcfd526342f27"
+    "revision": "6c8e82e7cb64a8bbcc84babebaca4ee6"
   },
   {
     "url": "projects/index.html",
-    "revision": "00e29095074ccc63be0ad12422fda9b9"
+    "revision": "056a9f8c4c3957cb63d67e6290682240"
   },
   {
     "url": "talks/hard-work-make-simple/index.html",
-    "revision": "4981c483f5f697bd5efbcc5b4f671878"
+    "revision": "cd969f872e9c59b6624617f058fa1424"
   },
   {
     "url": "talks/index.html",
@@ -153,7 +153,7 @@ self.__precacheManifest = [
   },
   {
     "url": "talks/names-culture/index.html",
-    "revision": "c0fbfb23f30550f7b326bd2e495081ae"
+    "revision": "1c5a9782cf053d0ddea53dba9d920fe2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
