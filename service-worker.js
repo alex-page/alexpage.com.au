@@ -29,7 +29,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "549c25c46c232db4659c4f11a20fe08d"
+    "revision": "862b1bad1246cca92f55ea042f236351"
   },
   {
     "url": "assets/blog/actions.jpg",
@@ -80,26 +80,6 @@ self.__precacheManifest = [
     "revision": "bd2022f41a6e2aa0028836a508aa906e"
   },
   {
-    "url": "assets/icons/download.svg",
-    "revision": "570ee436fd7854a48fe3dca8db3690ee"
-  },
-  {
-    "url": "assets/icons/github.svg",
-    "revision": "312721152592a190b4bc1de83a57daf9"
-  },
-  {
-    "url": "assets/icons/mail.svg",
-    "revision": "733b40cb4c31a8602d8d143c58ff703e"
-  },
-  {
-    "url": "assets/icons/star.svg",
-    "revision": "31e079da8dc8a8225253592e5e596e9d"
-  },
-  {
-    "url": "assets/icons/twitter.svg",
-    "revision": "b4d65fd0a18509864065499fd3d7e08d"
-  },
-  {
     "url": "assets/img/alex-page.png",
     "revision": "597889adb823c5026fd89a4d212252bd"
   },
@@ -109,51 +89,51 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/github-actions-npm/index.html",
-    "revision": "3025beffe20179403dd91266da48a913"
+    "revision": "ea3d08cd3c42fea5d66fb961fe767e4a"
   },
   {
     "url": "blog/index.html",
-    "revision": "fdae02c68ebd79bda5f403620f19549f"
+    "revision": "f09989ece028f02ffcac9d9a22b39ee8"
   },
   {
     "url": "index.html",
-    "revision": "69891feee8c07d0af25b65420a86bf36"
+    "revision": "4a604940e61207714c583b78f40ffd27"
   },
   {
     "url": "projects/a11ycolor/index.html",
-    "revision": "8205fd83d76da550208243459bb7f283"
+    "revision": "08a80724087f87d5012ff3e74f884cf0"
   },
   {
     "url": "projects/auds/index.html",
-    "revision": "1235df4f020c83a6cc7c4f0f23a9f4d1"
+    "revision": "2fa1f7eac242d560225b1b2222b02752"
   },
   {
     "url": "projects/chameleon/index.html",
-    "revision": "b8f26db54091cba2acab28dcf9d9a638"
+    "revision": "f282c60b1e61b1e0ca804610ad4b5e4e"
   },
   {
     "url": "projects/furnace/index.html",
-    "revision": "cd5af25a55e65a4b0f6ef555f2f0fac3"
+    "revision": "1a13a890a6cada26de277413ba0684fc"
   },
   {
     "url": "projects/harmonograph/index.html",
-    "revision": "331b01b118f98803c65aa89efb16c10e"
+    "revision": "5d294fd1d4b1093e88896a80c489cba0"
   },
   {
     "url": "projects/index.html",
-    "revision": "a4e9eb7520d2d0128c133c469837262e"
+    "revision": "c93feadc447efd65a64d174b2a9a03a6"
   },
   {
     "url": "talks/hard-work-make-simple/index.html",
-    "revision": "43a6160f4b0e782f04df0352a163df77"
+    "revision": "3c293e41b6f452ce9c0f89c84a822870"
   },
   {
     "url": "talks/index.html",
-    "revision": "0f74891c4f5c6f78f6e3053630936a1b"
+    "revision": "926c482a2081f16a39de10e0319b2269"
   },
   {
     "url": "talks/names-culture/index.html",
-    "revision": "a12658133e940855f198c4a84572c826"
+    "revision": "beb71125bf4a4e456c7ae20d6a5fa9ca"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
