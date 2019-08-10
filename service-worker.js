@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.1.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 workbox.core.setCacheNameDetails({prefix: "alex-page"});
 
@@ -29,7 +29,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4b4cccaa2581d72d10e4f781d56e7cd8"
+    "revision": "549c25c46c232db4659c4f11a20fe08d"
   },
   {
     "url": "assets/blog/actions.jpg",
@@ -109,51 +109,51 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/github-actions-npm/index.html",
-    "revision": "3b3aa7c0e8a50d6a14ce6f35a7997ae8"
+    "revision": "3025beffe20179403dd91266da48a913"
   },
   {
     "url": "blog/index.html",
-    "revision": "0fccec507e5d24b63fe4e80a9e10de6b"
+    "revision": "fdae02c68ebd79bda5f403620f19549f"
   },
   {
     "url": "index.html",
-    "revision": "cb816af000fa73e47d05a8a079024e30"
+    "revision": "69891feee8c07d0af25b65420a86bf36"
   },
   {
     "url": "projects/a11ycolor/index.html",
-    "revision": "103fa5417a9c769166a89f188a731be1"
+    "revision": "8205fd83d76da550208243459bb7f283"
   },
   {
     "url": "projects/auds/index.html",
-    "revision": "4daab30752457e289aec6bd279c8ee93"
+    "revision": "1235df4f020c83a6cc7c4f0f23a9f4d1"
   },
   {
     "url": "projects/chameleon/index.html",
-    "revision": "16ae85fc01b478b9bdf7b5f9ccf4da2e"
+    "revision": "b8f26db54091cba2acab28dcf9d9a638"
   },
   {
     "url": "projects/furnace/index.html",
-    "revision": "76957c646ea342019d6e7158ec3cca70"
+    "revision": "cd5af25a55e65a4b0f6ef555f2f0fac3"
   },
   {
     "url": "projects/harmonograph/index.html",
-    "revision": "6c8e82e7cb64a8bbcc84babebaca4ee6"
+    "revision": "331b01b118f98803c65aa89efb16c10e"
   },
   {
     "url": "projects/index.html",
-    "revision": "056a9f8c4c3957cb63d67e6290682240"
+    "revision": "a4e9eb7520d2d0128c133c469837262e"
   },
   {
     "url": "talks/hard-work-make-simple/index.html",
-    "revision": "cd969f872e9c59b6624617f058fa1424"
+    "revision": "43a6160f4b0e782f04df0352a163df77"
   },
   {
     "url": "talks/index.html",
-    "revision": "da9a92c6bbbc42870a828519169996e6"
+    "revision": "0f74891c4f5c6f78f6e3053630936a1b"
   },
   {
     "url": "talks/names-culture/index.html",
-    "revision": "1c5a9782cf053d0ddea53dba9d920fe2"
+    "revision": "a12658133e940855f198c4a84572c826"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
